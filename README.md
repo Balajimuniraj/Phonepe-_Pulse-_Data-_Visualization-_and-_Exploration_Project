@@ -11,3 +11,9 @@ The aim of this project is to develop a solution that extracts, transforms, and 
 **Dashboard Creation**: Using Streamlit and Plotly to build an interactive dashboard.
 
 **Data Retrieval**: Fetching data from the POSTGRESQL database dynamically and show the results in dashboard.
+
+**NAME**: Balaji Muniraj
+
+**BATCH**: DTM16
+
+**COURSE**: DATA SCIENCE
