@@ -27,8 +27,7 @@ Dataset Link for Download
 
 **1. Clone the Repository**:
 
-        git clone git@github.com:AJIN-B/Phonepe_Pulse_Data_Visualization.git
-        cd Phonepe_Pulse_Data_Visualization
+      https://github.com/PhonePe/pulse
    
 **2. Set Up a Virtual Environment (Optional but Recommended):**
 
