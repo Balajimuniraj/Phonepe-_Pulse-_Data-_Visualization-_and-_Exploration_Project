@@ -15,7 +15,7 @@ Dataset Link for [Download](https://github.com/PhonePe/pulse)
 
 **NOTE :- provide your sql user, database name, password.**
 
-    Basic Requirements:
+**Basic Requirements:**
     Python 3.10
     mysql_connector
     Pandas
